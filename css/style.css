@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  background: #f9f9f9;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+}
+
+#charts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+#piechart, #barchart {
+  width: 45%;
+  height: 400px;
+  border: 1px solid #ccc;
+}
+
+#piechart p {
+  font-size: 18px;
+  margin-top: 150px;
+  color: #777;
+}
+
+button {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  cursor: pointer;
+}

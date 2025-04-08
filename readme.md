@@ -27,7 +27,6 @@ INTERACTIVE GEO-CHART VIEWER
         └── map.js 
 ├── .gitignore 
 ├── index.html
-├── index.html
 ├── readme.md
 ```
 
